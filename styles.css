@@ -7,7 +7,7 @@
 body {
   width: 100%;
   min-height: 100vh /* vh = viewport height so the vw = vieport width */
-  background-color: hsl(212, 45%, 89%);
+  background-color: hsl(216, 15%, 48%);
   display: flex;
   justify-content: center;
   align-items: center;
